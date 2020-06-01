@@ -25,8 +25,16 @@ This it is and nothing more.”
 Presently my soul grew stronger; hesitating then no longer,
 “Sir,” said I, “or Madam, truly your forgiveness I implore;
 But the fact is I was napping, and so gently you came rapping,
+<<<<<<< ours
 And so faintly you came tapping, tapping at my chamber door,
 that I scarce was sure I heard you”—here I opened wide the door;—
+||||||| base
+And so faintly you came tapping, tapping at my chamber _,
+that I scarce was sure I heard you”—here I opened wide the _;—
+=======
+And so faintly you came tapping, tapping at my chamber _,
+That I scarce was sure I heard you”—here I opened wide the _;—
+>>>>>>> theirs
 Darkness there and nothing more.
 
 Deep into that darkness peering, long I stood there wondering, fearing,
