@@ -26,7 +26,7 @@ Presently my soul grew stronger; hesitating then no longer,
 “Sir,” said I, “or Madam, truly your forgiveness I implore;
 But the fact is I was napping, and so gently you came rapping,
 And so faintly you came tapping, tapping at my chamber door,
-that I scarce was sure I heard you”—here I opened wide the door;—
+That I scarce was sure I heard you”—here I opened wide the door;—
 Darkness there and nothing more.
 
 Deep into that darkness peering, long I stood there wondering, fearing,
@@ -120,7 +120,7 @@ Leave my loneliness unbroken!—quit the bust above my door!
 Take thy beak from out my heart, and take thy form from off my door!”
 Quoth the Raven “Nevermore.”
 
-Athe Raven, never flitting, still is sitting, still is sitting
+And the Raven, never flitting, still is sitting, still is sitting
 On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon’s that is dreaming,
 And the lamp-light o’er him streaming throws his shadow on the floor;
