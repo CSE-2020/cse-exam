@@ -1,0 +1,5 @@
+[user]
+        email = jonathan.karu@gmail.com
+        name = karuj
+[alias]
+        exam = shortlog -s -n --all
