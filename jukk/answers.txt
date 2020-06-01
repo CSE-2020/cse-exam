@@ -1,0 +1,6 @@
+1. Total commits in this repository: 86
+ $ git rev-list --all --count
+2. Line #10 in the file index.html was last changed by Stepan Bolotnikov on 2018-05-07 19:17:18 +0300.
+ $ git blame index.html
+3. The commit message of 865cbc8 is  "Added travis config file"
+ $ git show 865cbc8
