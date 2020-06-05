@@ -19,5 +19,5 @@
 # Installers
 
 - Windows:
-- Linux:
+- Linux: https://www.atlassian.com/git/tutorials/install-git#linux or just use a package manager silly
 - macOS:
