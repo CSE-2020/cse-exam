@@ -20,4 +20,4 @@
 
 - Windows:
 - Linux:
-- macOS:
+- macOS: https://sourceforge.net/projects/git-osx-installer/files/latest/download
