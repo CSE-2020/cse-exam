@@ -9,8 +9,8 @@ east: ida
 west: lääs
 south: lõuna
 water:
-air:
-wind:
+air:õhk
+wind:tuul
 book:
 house:
 road:
@@ -28,11 +28,11 @@ bed:
 tree:
 grass:
 website:
-drink:
-food:
-screen:
-mouse:
-cat:
+drink:jook
+food:toit
+screen:ekraan
+mouse:hiir
+cat:kass
 dog:
 wall:
 purple:
