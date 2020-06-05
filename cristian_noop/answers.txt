@@ -1,0 +1,10 @@
+1. cmd: git rev-list --all --count
+   answer: 106
+
+2. cmd: git blame -L 10,+1 index.html
+   Author: Stepan Bolotnikov
+   Time: 2018-05-07 19:17:18 +0300
+
+3. cmd:  git log -n 1 865cbc8
+   message: Added travis config file
+
