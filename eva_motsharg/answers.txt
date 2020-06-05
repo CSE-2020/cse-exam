@@ -1,0 +1,5 @@
+1. 62 commits - looked up the number on Github. The number of commits can
+also be found by running 'git log --oneline' and counting all the commits,
+but looking up the number on Github is faster.
+
+
