@@ -1,6 +1,6 @@
 UT homepage:
 UT study information system:
 UT library: https://utlib.ut.ee/
-UT institute of computer science:
+UT institute of computer science: https://www.cs.ut.ee/en
 UT academic sports club:
 course homepage:
