@@ -1,0 +1,4 @@
+1. 107 "git rev-list --all --count"
+2. May 7 19:17:18 2018 Authto: Stephan Bolotnikov. "git log -- index.html" to show commit history of file. Used github to see which one 
+was the latest change to the file.
+3. Added travis config file "git log --oneline"
