@@ -6,3 +6,7 @@ but looking up the number on Github is faster.
 The author of the commit is Stepan Bolotnikov.
 The command I used to find the answer is 'git blame -L 10,10 ../index.html'.
 I was in a subfolder at the time of running the command, hence the '../'.
+
+3. The commit message of the commit with the hash 865cbc8 is 'Added travis config file'
+The command I used to find this was 'git log 865cbc8'.
+
