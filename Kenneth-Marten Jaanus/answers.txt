@@ -1,0 +1,11 @@
+1.How many commits are in this repository (in total; in all branches)?  
+	106 commits
+	git rev-list --all --count
+ 
+ 2.When was the line #10 in the file index.html last changed and who is the author of that commit? 
+	Author: Stepan Bolotnikov <stjoopa@gmail.com>                     
+	Date:   Mon May 7 19:17:18 2018 +0300
+	git log -u -L 10,10:index.html
+ 
+ 3.What is the commit message of the commit with the hash 865cbc8? 
+	"Added travis config file"
