@@ -1,0 +1,13 @@
+user.name=Magnus Paal
+user.email=mmagnuspaal@gmail.com
+core.excludesfile=/Users/magnuspaal/.gitignore_global
+core.editor=nano
+core.trustctime=false
+core.autocrlf=input
+difftool.sourcetree.cmd=opendiff "$LOCAL" "$REMOTE"
+difftool.sourcetree.path=
+mergetool.sourcetree.cmd=/Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh "$LOCAL" "$REMOTE" -ancestor "$BASE" -merge "$MERGED"
+mergetool.sourcetree.trustexitcode=true
+commit.template=/Users/magnuspaal/.stCommitMsg
+alias.history=log --oneline --all --graph --decorate
+alias.line10blame=blame -L 10,+1 index.html
