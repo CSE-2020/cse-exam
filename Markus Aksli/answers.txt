@@ -1,0 +1,9 @@
+1. git rev-list --all --count
+106
+
+2. git blame index.html
+2018-05-07 19:17:18 +0300
+
+3. git show 865cbc8
+Added travis config file
+
