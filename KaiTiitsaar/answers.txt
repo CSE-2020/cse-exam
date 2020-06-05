@@ -1,0 +1,12 @@
+    How many commits are in this repository (in total; in all branches)?
+64 commits
+From github project page
+
+    When was the line #10 in the file index.html last changed and who is the author of that commit?
+74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10)
+
+Used: git blame index.html
+    
+    What is the commit message of the commit with the hash 865cbc8? 
+Added travis config file
+Used:  git show 865cbc8
