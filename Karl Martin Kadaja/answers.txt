@@ -1,0 +1,8 @@
+1) There are in total of 107 commits
+Commands: git rev-list --all --count
+2) The line #10 in the file "index.html" was last changed 2018-05-07 19:17:18 +0300.
+The author of that commit was Stepan Bolotnikov.
+Commands: git blame -L 10,+1 index.html
+3)The commit message of the commit with the hash "865cbc8" was:
+"Added travis config file"
+Commands: git log -n 1 --pretty=format:%s 865cbc8
